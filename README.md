@@ -6,7 +6,7 @@ A simple Weather App built using HTML, CSS, and JavaScript that shows real-time 
 
 ## ▶️ Run the App
 
-👉 **[Click Here to Check Weather](https://your-username.github.io/WeatherApp/)**
+👉 **[Click Here to Check Weather](https://kunalchauchan90-beep.github.io/WeatherApp/)**
 
 ---
 
