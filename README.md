@@ -25,7 +25,7 @@ A simple Weather App built using HTML, CSS, and JavaScript that shows real-time 
 📁 Weather-App  
  ┣ 📄 index.html  
  ┣ 📄 style.css  
- ┗ 📄 script.js  
+ ┗ 📄 index.js  
 
 ---
 
